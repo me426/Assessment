@@ -52,7 +52,7 @@ docker-compose up
 ```
 ## Getting Started
 
-1. Naviage to localhost:8000
+1. Navigate to localhost:8000
 2. To create a page, append http://localhost:8000/index.php/ with your desired wiki entry. 
 
 For example http://localhost:8000/index.php/hello_world
