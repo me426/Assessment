@@ -66,6 +66,15 @@ For example http://localhost:8000/index.php/hello_world
 * [Mariadb](https://mariadb.org/) - The SQL database used
 * [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) - Media Wiki
 
+## Assignment Task Two
+
+1. Open a command line
+2. Navigate to the directory containing OPENWEATHERMAP.py
+3. Run ```
+python3 OPENWEATHERMAP.py <city>
+```
+4. This should return the weather for the city in the first arguement. 
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
