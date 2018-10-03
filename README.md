@@ -70,7 +70,8 @@ For example http://localhost:8000/index.php/hello_world
 
 1. Open a command line
 2. Navigate to the directory containing OPENWEATHERMAP.py
-3. Run ```
+3. Run 
+```
 python3 OPENWEATHERMAP.py <city>
 ```
 4. This should return the weather for the city in the first arguement. 
